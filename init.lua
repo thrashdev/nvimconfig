@@ -8,6 +8,7 @@ spec ("thrashdev.mason")
 spec ("thrashdev.whichkey")
 spec ("thrashdev.lspconfig")
 spec ("thrashdev.cmp")
--- spec ("thrashdev.none-ls")
+spec ("thrashdev.telescope")
+spec ("thrashdev.none-ls")
 require ("thrashdev.lazy")
 
